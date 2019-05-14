@@ -11,7 +11,7 @@
 \geometry{a4paper, left=1.7cm, right=1.8cm, top=2.0cm, bottom=1.5cm, headheight=1.0cm}
 \RequirePackage{fancyhdr}
 \RequirePackage{indentfirst}
-
+\RequirePackage[official]{eurosym}
 \RequirePackage[dvipsnames]{xcolor}
 \definecolor{dfgblue}{RGB}{0, 82, 158}
 
@@ -27,7 +27,6 @@
 \RequirePackage{amsmath}
 
 \RequirePackage{bibentry}
-\RequirePackage[official]{eurosym}
 
 \renewcommand{\rmdefault}{phv} % Arial
 \renewcommand{\sfdefault}{phv} % Arial
