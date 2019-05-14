@@ -15,6 +15,7 @@
 \RequirePackage[dvipsnames]{xcolor}
 \definecolor{dfgblue}{RGB}{0, 82, 158}
 
+\RequirePackage{graphicx}
 \RequirePackage[font=normal,labelfont=bf]{caption}
 \RequirePackage{subfig}	
 \RequirePackage{wrapfig}
