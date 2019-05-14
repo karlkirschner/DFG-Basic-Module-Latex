@@ -30,6 +30,7 @@
 \RequirePackage[hidelinks]{hyperref}
 \RequirePackage{url}
 \RequirePackage{bibentry}
+\nobibliography*
 
 \renewcommand{\rmdefault}{phv} % Arial
 \renewcommand{\sfdefault}{phv} % Arial
