@@ -20,22 +20,25 @@ Formatting:
 \definecolor{dfgblue}{RGB}{0, 82, 158}
 
 Figures:
-11. \RequirePackage[font=normal,labelfont=bf]{caption}
-12. \RequirePackage{subfig}	
-13. \RequirePackage{wrapfig}
+11. \RequirePackage{graphicx}
+12. \RequirePackage[font=normal,labelfont=bf]{caption}
+13. \RequirePackage{subfig}	
+14. \RequirePackage{wrapfig}
 
 Tables:
-14. \RequirePackage{threeparttable}
-15. \RequirePackage{booktabs}
-16. \RequirePackage[labelfont=bf]{caption}
-17. \RequirePackage{colortbl}
+15. \RequirePackage{threeparttable}
+16. \RequirePackage{booktabs}
+17. \RequirePackage[labelfont=bf]{caption}
+18. \RequirePackage{colortbl}
 
 Math:
-18. \RequirePackage{amsmath}
+19. \RequirePackage{amsmath}
 
 References:
-19. \RequirePackage{bibentry}
+20. \RequirePackage{bibentry}
 
 Misc:
-20. \RequirePackage{lastpage}
-21. \RequirePackage{titlesec}
+21. \RequirePackage[hidelinks]{hyperref}
+22. \RequirePackage{url}
+23. \RequirePackage{lastpage}
+24. \RequirePackage{titlesec}
