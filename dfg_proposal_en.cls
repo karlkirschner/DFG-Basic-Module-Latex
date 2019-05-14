@@ -27,6 +27,8 @@
 
 \RequirePackage{amsmath}
 
+\RequirePackage[hidelinks]{hyperref}
+\RequirePackage{url}
 \RequirePackage{bibentry}
 
 \renewcommand{\rmdefault}{phv} % Arial
